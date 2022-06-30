@@ -1,11 +1,15 @@
 # Lab_6
 All of my code for Lab 6
 
-For contact, please email me at smajsa6892@sdsu.edu
+**Contact: ** Please email me at smajsa6892@sdsu.edu
 
 Coffee - The template for every Coffee Topping, integrated in each file extending CoffeeDecorator
 CoffeeDecorator - Implements Coffee and works to direct the creation of coffee objects based on their toppings
 Basic Coffee - This file contains the class for the BasicCoffee object and serves as the base for the coffee
+
+
+_To Run the Application, go to "Main" and execute the file, from there user prompts in the terminal will guide you on both how to execute the program further and
+how to operate it_
 
 
 [The following extend CoffeeDecorator and are incredibly similar in structure, distinguished by prices and string returns]
